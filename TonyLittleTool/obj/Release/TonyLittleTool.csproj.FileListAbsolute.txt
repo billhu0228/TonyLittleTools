@@ -1,0 +1,9 @@
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\bin\Release\TonyLittleTool.exe.config
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\bin\Release\TonyLittleTool.exe
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\bin\Release\TonyLittleTool.pdb
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\obj\Release\Interop.AutoCAD.dll
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\obj\Release\Interop.AXDBLib.dll
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\obj\Release\TonyLittleTool.csproj.ResolveComReference.cache
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\obj\Release\TonyLittleTool.csproj.CoreCompileInputs.cache
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\obj\Release\TonyLittleTool.exe
+D:\Bill\source\repos\TonyLittleTool\TonyLittleTool\obj\Release\TonyLittleTool.pdb
